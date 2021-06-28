@@ -8,8 +8,9 @@ This project is an assignmnet from Data Analytics program - VBA Module<br>
    
 
 # Results
-Both 2017 and 2018 refactored code process time is faster than the original code. 
-Array is applied instead of pulling cells from data for loop, which has shorten the time for the code system.
+Both 2017 and 2018 refactored code process time is faster than the original code. <br>
+Array is applied instead of pulling cells from data for loop, which has shorten the time for the code system.<br>
+<br>
 Original 2017 Code<br>
 ![date](Original%202017.png)
 Refactored 2017 Code<br>
