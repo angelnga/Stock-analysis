@@ -31,6 +31,6 @@ using less memory and more simplify code for future users.<br>
 The downside of refactoring is it takes time to restructure the system which might increase the risk of error when messing with exsiting format.<br>
 
 - Pros and cons apply to refactoring the original VBA script<br>
-The refactorted code lowered the process time with less storage than the original code. But the refactorting time and the result doesn't make a significant changes. It depends on the usage of the code.
+The refactorted code lowered the process time with less storage than the original code. But the refactorting time and result doesn't make a significant changes. It depends on the usage of the code.
  
 
